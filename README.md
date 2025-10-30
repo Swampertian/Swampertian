@@ -1,5 +1,6 @@
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+ 
 
-<!---
-Swampertiano/Swampertiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">🛠️ My Tech Stack  </h3>
+Here are the languages and tools I primarily work with:  
+
