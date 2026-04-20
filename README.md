@@ -8,7 +8,7 @@ Backend Engineer focused on building scalable and high-performance systems.
 
 - Design backend architectures (monolith & microservices)
 - Build APIs with performance and reliability in mind
-- Work with data processing and large datasets
+- Work with data processing and large datasets (especially geodata)
 - Optimize systems using caching, async jobs, and profiling
 - Deploy applications with Docker, CI/CD, and VPS
 
@@ -25,7 +25,6 @@ Backend Engineer focused on building scalable and high-performance systems.
 ### 🚧 Currently Learning
 
 - Low-level programming
-- Go (performance-oriented services)
 - C# / .NET ecosystem
 - Distributed systems & Big Data
 
