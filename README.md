@@ -19,6 +19,7 @@ Backend Engineer focused on building scalable and high-performance systems.
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white">
 </p>
 
 
@@ -28,5 +29,3 @@ Backend Engineer focused on building scalable and high-performance systems.
 - Distributed systems & Big Data
 
 ---
-
-### 📫 Contact me
