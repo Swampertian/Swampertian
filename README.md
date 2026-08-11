@@ -19,7 +19,7 @@ Backend Engineer focused on building scalable and high-performance systems.
 </p>
 
 
-### 🚧 Currently Learning
+### 🚧 Currently Working
 
 - C# / .NET ecosystem
 - Distributed systems & Big Data
